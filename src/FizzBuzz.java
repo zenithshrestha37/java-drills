@@ -1,5 +1,3 @@
-package com.zenith;
-
 public class FizzBuzz { // starting a class FizzBuzz
     public static void main(String[] args) { // initializing main method
         fizzBuzz100(); // calling the method

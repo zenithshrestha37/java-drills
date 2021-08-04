@@ -1,5 +1,3 @@
-package com.zenith;
-
 public class FizzBuzzSwitch {
 
     public static void main(String[] args) {

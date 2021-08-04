@@ -1,5 +1,3 @@
-package com.zenith;
-
 public class Function {
     public static void main(String[] args) {
     helloWorld();
